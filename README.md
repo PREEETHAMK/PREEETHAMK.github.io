@@ -60,4 +60,4 @@ Click Save.
 
 6️⃣Accessed My Live Website
 
-My site is now live at: https://github.com/PREEETHAMK/PREEETHAMK.github.io.git
+My site is now live at: https://preeethamk.github.io/
